@@ -1,0 +1,1 @@
+print("Peta is pretty cool")
